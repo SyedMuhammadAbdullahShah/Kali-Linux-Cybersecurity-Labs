@@ -41,6 +41,7 @@ Kali-Linux-Cybersecurity-Labs/
 | Module | Description | Status |
 | :--- | :--- | :---: |
 | **Lab 01** | Kali Linux installation, VM configuration, and environment setup | ✅ Completed |
+| **Lab 02** | Linux shell fundamentals, navigation, and terminal commands | ✅ Completed |
 | **Assignment 01** | Fundamental CLI operations and navigation tasks | ✅ Completed |
 | **Assignment 02** | File permissions, user privilege management, and directory structures | ✅ Completed |
 | **Assignment 03** | Basic networking commands, ping tests, and host discovery | ✅ Completed |
