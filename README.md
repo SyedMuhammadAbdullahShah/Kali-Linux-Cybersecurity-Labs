@@ -11,6 +11,7 @@ Kali-Linux-Cybersecurity-Labs/
 │
 ├── 📂 Labs/
 │   └── 📂 Lab-01-Kali-Installation/       # Kali Linux VM Setup, Configuration & Basic Commands
+│   └── 📂 Lab-02-Linux-Shell-Fundamentals/ # Linux Shell Fundamentals & CLI Navigation
 │
 ├── 📂 Assignments/
 │   ├── 📂 Assignment-01/                  # Linux Fundamentals & Core Commands
